@@ -1,3 +1,5 @@
+# ChatGPT Prompt for helping you Refine your Resume 
+
 "Hello ChatGPT, I am [Your Name], and I'm looking to create an updated and compelling resume for applying to DevOps positions. My professional background and specific needs for the resume are as follows:  
 
 Professional Experience: [List your previous job titles, companies worked at, and the duration of each role. Provide a brief description of your responsibilities and key achievements in each position, especially those relevant to DevOps.]  

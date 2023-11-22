@@ -1,3 +1,5 @@
+# ChatGPT Prompt for tracking latest Trends in Devops 
+
 "Hi ChatGPT, I am [Your Name], a professional in the DevOps field. To ensure I remain at the forefront of industry developments and best practices, I need assistance in keeping myself updated with the latest trends, tools, and methodologies in DevOps. Here's some background and what I'm looking for:  
 
 Current Role and Experience: [Briefly describe your current job role in DevOps and your experience level, including any specific areas of expertise you have.]  

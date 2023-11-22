@@ -1,3 +1,5 @@
+# ChatGPT Prompts for generating Devops Project Ideas
+
 ## Simple Prompt
 
 I am on a mission to upScale my career by mastering Devops Skills using a project centric approach. To learn better, I want to practice with projects which are similar to real life work of a Devops Professional. Help me come up with 5 projets on the following topic. Write a project spec which mimics a real world scenario. Address me as a Devops Professional and ask me complete a specific task. GIve me description of that task.

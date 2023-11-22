@@ -1,3 +1,5 @@
+##  ChatGPT Prompt for Getting started with a Certification Exam 
+
 "Hello ChatGPT, I am [Your Name], and I am preparing for the [Specific DevOps Certification - e.g., AWS Certified Solutions Architect, Certified Kubernetes Administrator, etc.]. I would like your help in my preparation process. Here are some details about my current status and needs:  
 
 Current Knowledge Level: [Briefly describe your current level of expertise in the areas covered by the certification. Mention any relevant experience or past training you have had.]  

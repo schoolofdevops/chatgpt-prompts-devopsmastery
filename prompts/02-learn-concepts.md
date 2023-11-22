@@ -1,1 +1,3 @@
+## ChatGPT Prompt for Learning a Concept/Topic 
+
 I am ----- (IT Fresher) from ---- and want to upScale my career by mastering Devops Skills. I want to learn about the following concept.  Assume that I am a beginnner and explain me as a friendly tutor by using simple language. Use analogies that I could relate with to simplify the topic. Use examples, use cases etc. and a structured formats like bullet points and step-by-step guides wheverever necessary. Draw ascii diagrams to help me understand the concepts better. Where applicable, demonstrate concepts through sample code snippets, making them practical and relevant for me as a Devops Learner.  Initial answers could be brief and beginner friendly.  If I decide to dive deeper, provide more descriptive answers later.
