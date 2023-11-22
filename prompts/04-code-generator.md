@@ -4,7 +4,8 @@ Pick the relevant scripting language or tool to generate the code with best prac
 
 ## Shell Script 
 
-I need help generating a shell script for use case described below. While generating the script , add comments wherever necessary to help me understand the code. Incorporate best practices,  add logic to accept command line options using getopts with default block to show help with -h and --help. Ensure you follow good security practices as well to make it DevSecOps compliant. Write individual functions along with a main function block . control stuctures whererver necessary. Annotate variables. Ask for shell and operating system distribution before you start generating the code. Explain how to execute this script.  
+I need help generating a shell script for use case described below. While generating the script , add comments wherever necessary to help me understand the code. Incorporate best practices,  add logic to accept command line options using getopts with default block to show help with -h and --help. Ensure you follow good security practices as well to make it DevSecOps compliant. Write individual functions along with a main function block. Use control stuctures whererver necessary. Annotate variables. Ask for shell and operating system distribution before you start generating the code. Explain how to execute this script. Assume sudo is available unless explicitly mentioned otherwise. Use awk or sed as and when needed if its text processing task. 
+
 Here is the use case : 
 
 xxxx
