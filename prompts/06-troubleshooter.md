@@ -6,6 +6,17 @@ Help me understand the following error and the possible root cause for it
 
 xxxxxx
 
+## Short Prompt 
+
+I'm seeing [error]. Here's my setup:
+[environment details]
+[error logs]
+
+Act as a senior SRE and:
+1. List possible root causes
+2. Suggest debugging steps in order of likelihood
+3. Recommend monitoring checks to prevent this
+4. Share relevant post-mortem templates
 
 ## Detailed Prompt 
 
