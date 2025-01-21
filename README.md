@@ -1,3 +1,7 @@
+## Watch the FREE Playlist on YouTube 
+
+If you want to see how you could use these prompts while building devops skills, [do check out this playlist](https://www.youtube.com/playlist?list=PL3EazRnW1p-idh-WLmx6kC3lygyOC7rpb). 
+
 ## ChatGPT Prompts for Devops Mastery
 [01 - Learn any Concept or Topic](prompts/02-learn-concepts.md)  
 [02 - Get Guidance on selecting the right Tool](prompts/03-tool-selector.md)  
